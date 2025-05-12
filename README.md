@@ -17,7 +17,7 @@ During the hackathon, I joined the **Data Analytics team**, where we analyzed su
 
 ## 📎 Deliverables
 
-- 📑 **Survey Data Summary Report**: [survey_summary.pdf]()
+- 📑 **Survey Data Summary Report**: [survey_summary.pdf](https://github.com/MonicaAniedobe/Africa-Agility-Hackathon/blob/main/FFH%20Dashboard%20And%20Report.pdf)
 - 📷 **Power BI Dashboard Screenshot**: [dashboard](https://github.com/MonicaAniedobe/Africa-Agility-Hackathon/blob/main/WhatsApp%20Image%202025-05-12%20at%209.47.38%20AM.jpeg)
 
 ## 🚀 Tools Used
@@ -34,8 +34,6 @@ Grateful to **Africa Agility**, the **judges**, **keynote speaker**, **founder**
 
 This project is open for learning and portfolio purposes. Feel free to explore and reference.
 
----
 
-**Author:** Aniedobe Monica Chinaza 
 
 **Date:** April 2025  
