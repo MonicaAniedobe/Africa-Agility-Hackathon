@@ -18,7 +18,7 @@ During the hackathon, I joined the **Data Analytics team**, where we analyzed su
 ## 📎 Deliverables
 
 - 📑 **Survey Data Summary Report**: [survey_summary.pdf]()
-- 📷 **Power BI Dashboard Screenshot**: [dashboard]()
+- 📷 **Power BI Dashboard Screenshot**: [dashboard](https://github.com/MonicaAniedobe/Africa-Agility-Hackathon/blob/main/WhatsApp%20Image%202025-05-12%20at%209.47.38%20AM.jpeg)
 
 ## 🚀 Tools Used
 
